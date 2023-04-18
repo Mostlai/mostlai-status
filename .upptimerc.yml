@@ -19,8 +19,8 @@ status-website:
   baseUrl: /mostlai-status
   logoUrl: https://cdn.jsdelivr.net/gh/mostlai/mostlai-cdn@latest/img/socia.png
   name: "Pldada-Mostlai | Status"
-  introTitle: "🎉欢迎来到Pldada-Mostlai的monitor页面"
-  introMessage: You are now viewing *Pldada-Mostlai's* status page. Based on Github action and [Uptime](https://github.com/upptime/upptime)
+  introTitle: "🎉Welcome to Pldada-Mostlai's monitor page"
+  introMessage: You are now viewing Pldada-Mostlai's status page. Based on Github action and [Uptime](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
