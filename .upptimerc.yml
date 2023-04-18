@@ -37,8 +37,8 @@ status-website:
     uptime: "0 */2 * * *"
 
   commitMessages:
-    commitAuthorName: "@Mostlai"
-    commitAuthorEmail: "pldada@foxmail.com"
+    commitAuthorName: "@mostlai"
+    commitAuthorEmail: "2096358571@qq.com"
   # Upptime also supports notifications, assigning issues, and more
   # See https://upptime.js.org/docs/configuration
   i18n:
