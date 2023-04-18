@@ -17,7 +17,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: demo.upptime.js.org
   baseUrl: /mostlai-status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://cdn.jsdelivr.net/gh/mostlai/mostlai-cdn@latest/img/socia.png
   name: "Pldada-Mostlai | Status"
   introTitle: "🎉欢迎来到Pldada-Mostlai的monitor页面"
   introMessage: You are now viewing *Pldada-Mostlai's* status page. Based on Github action and [Uptime](https://github.com/upptime/upptime)
