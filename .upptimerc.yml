@@ -27,19 +27,19 @@ status-website:
     - title: Abount me
       href: https://mostlai.github.io/
       
-  workflowSchedule:
-    graphs: "0 */2 * * *"
-    responseTime: "0 */2 * * *"
-    staticSite: "0 */2 * * *"
-    summary: "0 */2 * * *"
-    updateTemplate: "0 */2 * * *"
-    updates: "0 */2 * * *"
-    uptime: "0 */2 * * *"
+workflowSchedule:
+  graphs: "0 */2 * * *"
+  responseTime: "0 */2 * * *"
+  staticSite: "0 */2 * * *"
+  summary: "0 */2 * * *"
+  updateTemplate: "0 */2 * * *"
+  updates: "0 */2 * * *"
+  uptime: "0 */2 * * *"
 
-  commitMessages:
-    commitAuthorName: "@Mostlai"
-    commitAuthorEmail: "2096358571@qq.com"
-  # Upptime also supports notifications, assigning issues, and more
-  # See https://upptime.js.org/docs/configuration
-  i18n:
-    footer: Made with ❤ by [@mostlai](//github.com/mostlai)
+commitMessages:
+  commitAuthorName: "@Mostlai"
+  commitAuthorEmail: "2096358571@qq.com"
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
+i18n:
+  footer: Made with ❤ by [@mostlai](//github.com/mostlai)
