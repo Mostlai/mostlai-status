@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
-    "timeDay": 76,
-    "timeWeek": 107,
+    "timeDay": 87,
+    "timeWeek": 108,
     "timeMonth": 125,
     "timeYear": 115,
     "dailyMinutesDown": {}
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 53,
-    "timeDay": 35,
-    "timeWeek": 48,
+    "timeDay": 45,
+    "timeWeek": 49,
     "timeMonth": 53,
     "timeYear": 53,
     "dailyMinutesDown": {}
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 53,
-    "timeDay": 36,
+    "timeDay": 44,
     "timeWeek": 51,
-    "timeMonth": 52,
+    "timeMonth": 53,
     "timeYear": 53,
     "dailyMinutesDown": {}
   },
@@ -58,19 +58,19 @@
     "url": "https://mostlai.github.io/HD-WIKI/",
     "icon": "https://icons.duckduckgo.com/ip3/mostlai.github.io.ico",
     "slug": "mostlai-s-hd-wiki",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 315,
-    "timeDay": 203,
-    "timeWeek": 291,
-    "timeMonth": 292,
-    "timeYear": 315,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "91.82%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.96%",
+    "time": 320,
+    "timeDay": 1291,
+    "timeWeek": 445,
+    "timeMonth": 328,
+    "timeYear": 320,
     "dailyMinutesDown": {
-      "2023-11-09": 1
+      "2023-11-09": 118
     }
   }
 ]
