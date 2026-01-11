@@ -4,71 +4,79 @@
     "url": "https://mostlai.github.io/",
     "icon": "https://icons.duckduckgo.com/ip3/mostlai.github.io.ico",
     "slug": "mostlai-s-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 226,
-    "timeWeek": 192,
-    "timeMonth": 169,
+    "timeDay": 266,
+    "timeWeek": 199,
+    "timeMonth": 171,
     "timeYear": 143,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-11": 0
+    }
   },
   {
     "name": "🌏 Mostlai's Hundred-Days",
     "url": "https://mostlai.github.io/Hundred-days/",
     "icon": "https://icons.duckduckgo.com/ip3/mostlai.github.io.ico",
     "slug": "mostlai-s-hundred-days",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 72,
     "timeDay": 79,
-    "timeWeek": 74,
-    "timeMonth": 76,
+    "timeWeek": 75,
+    "timeMonth": 77,
     "timeYear": 72,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-11": 0
+    }
   },
   {
     "name": "🌙 Mostlai's HD-TEST",
     "url": "https://mostlai.github.io/HD-TEST/",
     "icon": "https://icons.duckduckgo.com/ip3/mostlai.github.io.ico",
     "slug": "mostlai-s-hd-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 58,
-    "timeDay": 74,
-    "timeWeek": 68,
+    "timeDay": 76,
+    "timeWeek": 69,
     "timeMonth": 63,
     "timeYear": 59,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-11": 1
+    }
   },
   {
     "name": "📖 Mostlai's HD-WIKI",
     "url": "https://mostlai.github.io/HD-WIKI/",
     "icon": "https://icons.duckduckgo.com/ip3/mostlai.github.io.ico",
     "slug": "mostlai-s-hd-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 360,
-    "timeDay": 318,
-    "timeWeek": 357,
-    "timeMonth": 404,
+    "timeDay": 300,
+    "timeWeek": 356,
+    "timeMonth": 403,
     "timeYear": 362,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-11": 1
+    }
   }
 ]
