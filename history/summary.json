@@ -4,20 +4,18 @@
     "url": "https://mostlai.github.io/",
     "icon": "https://icons.duckduckgo.com/ip3/mostlai.github.io.ico",
     "slug": "mostlai-s-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 205,
-    "timeWeek": 189,
-    "timeMonth": 168,
+    "timeDay": 226,
+    "timeWeek": 192,
+    "timeMonth": 169,
     "timeYear": 143,
-    "dailyMinutesDown": {
-      "2026-01-11": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "🌏 Mostlai's Hundred-Days",
@@ -26,18 +24,16 @@
     "slug": "mostlai-s-hundred-days",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 72,
     "timeDay": 79,
     "timeWeek": 74,
     "timeMonth": 76,
     "timeYear": 72,
-    "dailyMinutesDown": {
-      "2026-01-11": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "🌙 Mostlai's HD-TEST",
@@ -46,18 +42,16 @@
     "slug": "mostlai-s-hd-test",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 58,
     "timeDay": 74,
     "timeWeek": 68,
     "timeMonth": 63,
     "timeYear": 59,
-    "dailyMinutesDown": {
-      "2026-01-11": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "📖 Mostlai's HD-WIKI",
@@ -66,17 +60,15 @@
     "slug": "mostlai-s-hd-wiki",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 360,
     "timeDay": 318,
     "timeWeek": 357,
     "timeMonth": 404,
     "timeYear": 362,
-    "dailyMinutesDown": {
-      "2026-01-11": 13
-    }
+    "dailyMinutesDown": {}
   }
 ]
