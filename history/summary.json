@@ -6,17 +6,17 @@
     "slug": "mostlai-s-blog",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 142,
     "timeDay": 205,
-    "timeWeek": 188,
+    "timeWeek": 189,
     "timeMonth": 168,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2026-01-11": 0
+      "2026-01-11": 13
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://mostlai.github.io/Hundred-days/",
     "icon": "https://icons.duckduckgo.com/ip3/mostlai.github.io.ico",
     "slug": "mostlai-s-hundred-days",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 72,
-    "timeDay": 81,
+    "timeDay": 79,
     "timeWeek": 74,
     "timeMonth": 76,
     "timeYear": 72,
     "dailyMinutesDown": {
-      "2026-01-11": 0
+      "2026-01-11": 13
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://mostlai.github.io/HD-TEST/",
     "icon": "https://icons.duckduckgo.com/ip3/mostlai.github.io.ico",
     "slug": "mostlai-s-hd-test",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 58,
-    "timeDay": 77,
-    "timeWeek": 67,
+    "timeDay": 74,
+    "timeWeek": 68,
     "timeMonth": 63,
     "timeYear": 59,
     "dailyMinutesDown": {
-      "2026-01-11": 1
+      "2026-01-11": 13
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://mostlai.github.io/HD-WIKI/",
     "icon": "https://icons.duckduckgo.com/ip3/mostlai.github.io.ico",
     "slug": "mostlai-s-hd-wiki",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 360,
     "timeDay": 318,
-    "timeWeek": 358,
-    "timeMonth": 403,
+    "timeWeek": 357,
+    "timeMonth": 404,
     "timeYear": 362,
     "dailyMinutesDown": {
-      "2026-01-11": 1
+      "2026-01-11": 13
     }
   }
 ]
