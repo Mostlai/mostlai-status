@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mostlai.github.io.ico",
     "slug": "mostlai-s-blog",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "56.70%",
-    "uptimeWeek": "93.81%",
-    "uptimeMonth": "98.58%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.93%",
+    "uptimeDay": "33.70%",
+    "uptimeWeek": "90.53%",
+    "uptimeMonth": "97.82%",
+    "uptimeYear": "99.82%",
     "time": 143,
-    "timeDay": 464,
-    "timeWeek": 226,
-    "timeMonth": 177,
-    "timeYear": 143,
+    "timeDay": 524,
+    "timeWeek": 237,
+    "timeMonth": 179,
+    "timeYear": 144,
     "dailyMinutesDown": {
-      "2026-01-11": 623
+      "2026-01-12": 115,
+      "2026-01-11": 839
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mostlai.github.io.ico",
     "slug": "mostlai-s-hundred-days",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "56.69%",
-    "uptimeWeek": "93.81%",
-    "uptimeMonth": "98.58%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.93%",
+    "uptimeDay": "33.67%",
+    "uptimeWeek": "90.52%",
+    "uptimeMonth": "97.82%",
+    "uptimeYear": "99.82%",
     "time": 72,
-    "timeDay": 81,
+    "timeDay": 68,
     "timeWeek": 75,
     "timeMonth": 76,
     "timeYear": 72,
     "dailyMinutesDown": {
-      "2026-01-11": 624
+      "2026-01-12": 116,
+      "2026-01-11": 839
     }
   },
   {
@@ -45,18 +47,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mostlai.github.io.ico",
     "slug": "mostlai-s-hd-test",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "56.68%",
-    "uptimeWeek": "93.81%",
-    "uptimeMonth": "98.58%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.93%",
+    "uptimeDay": "33.66%",
+    "uptimeWeek": "90.52%",
+    "uptimeMonth": "97.82%",
+    "uptimeYear": "99.82%",
     "time": 58,
-    "timeDay": 83,
+    "timeDay": 74,
     "timeWeek": 69,
     "timeMonth": 63,
     "timeYear": 59,
     "dailyMinutesDown": {
-      "2026-01-11": 624
+      "2026-01-12": 116,
+      "2026-01-11": 839
     }
   },
   {
@@ -65,18 +68,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mostlai.github.io.ico",
     "slug": "mostlai-s-hd-wiki",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "56.67%",
-    "uptimeWeek": "93.81%",
-    "uptimeMonth": "98.58%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.92%",
+    "uptimeDay": "33.65%",
+    "uptimeWeek": "90.52%",
+    "uptimeMonth": "97.82%",
+    "uptimeYear": "99.82%",
     "time": 360,
-    "timeDay": 201,
-    "timeWeek": 341,
-    "timeMonth": 398,
+    "timeDay": 139,
+    "timeWeek": 336,
+    "timeMonth": 396,
     "timeYear": 361,
     "dailyMinutesDown": {
-      "2026-01-11": 624
+      "2026-01-12": 116,
+      "2026-01-11": 839
     }
   }
 ]
